@@ -18,3 +18,24 @@ Knowledge retrieval: AI agent pulls relevant chunks from documents when answerin
 
 RAG flow: user queries are enhanced with context before generating a response.
 
+⚙️ Setup Instructions
+
+Import RAG_System_5.json into your n8n instance.
+
+Configure credentials for:
+
+OpenAI API
+
+Google Drive
+
+Place relevant company/contract documents in Google Drive.
+
+Trigger the workflow by sending a chat message.
+
+🔮 Future Improvements
+
+Persist vector store in a database (Pinecone, Weaviate, etc.) instead of in-memory.
+
+Extend to support multiple file formats (DOCX, XLSX, etc.).
+
+Deploy chatbot to Slack, Teams, or a web interface.
