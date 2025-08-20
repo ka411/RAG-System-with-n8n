@@ -28,7 +28,7 @@ OpenAI API
 
 Google Drive
 
-Place relevant company/contract documents in Google Drive.
+Could you place relevant company/contract documents in Google Drive?
 
 Trigger the workflow by sending a chat message.
 
