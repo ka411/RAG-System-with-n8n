@@ -36,6 +36,6 @@ Trigger the workflow by sending a chat message.
 
 Persist vector store in a database (Pinecone, Weaviate, etc.) instead of in-memory.
 
-Extend to support multiple file formats (DOCX, XLSX, etc.).
+Support multiple file formats (e.g., DOCX, XLSX).
 
 Deploy chatbot to Slack, Teams, or a web interface.
