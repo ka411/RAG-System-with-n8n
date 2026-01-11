@@ -32,6 +32,7 @@ Could you place relevant company/contract documents in Google Drive?
 
 Trigger the workflow by sending a chat message.
 
+
 🔮 Future Improvements
 
 Persist vector store in a database (Pinecone, Weaviate, etc.) instead of in-memory.
