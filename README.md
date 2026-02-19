@@ -4,6 +4,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline in n8n
 .
 It connects a chat interface with company/contract documents stored in Google Drive, allowing an AI agent to answer user queries using both memory and retrieved knowledge.
 
+
 🚀 Features
 
 Chatbot trigger: responds to chat messages.
